@@ -1,3 +1,4 @@
+// state
 export const state = () => ({
   activeIssue: ''
 })
